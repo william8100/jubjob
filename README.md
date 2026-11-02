@@ -2,7 +2,7 @@
 
 English job discovery for **remote** and **local** openings (US / UK / Canada and worldwide remote).
 
-Jobs come from employer career pages and ATS boards — apply on the company site.
+Jobs come from employer career pages — apply on the company site.
 
 **Website:** https://jubjob.com
 
